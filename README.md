@@ -1,0 +1,1 @@
+This project tries to apply the knowledge of the basic tech stack such as numpy, pandas, seaborn, to analyse the world population data and obtain insights from it. Several insights could be drawn from the data, which have been plotted as graphs for the ease of understanding.
